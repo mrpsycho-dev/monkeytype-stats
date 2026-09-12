@@ -1,18 +1,18 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-4-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-102.1-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-97.9%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-5-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-102.1-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-98.3%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 20:03:24 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 20:05:00 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 4 |
-| Time spent typing | 34s |
-| Average WPM | 88 |
-| Average accuracy | 97.9% |
-| Average consistency | 75.6% |
+| Tests completed | 5 |
+| Time spent typing | 40s |
+| Average WPM | 90.2 |
+| Average accuracy | 98.3% |
+| Average consistency | 76.5% |
 | Best single test | 102.1 wpm (10 words) |
 | Highest accuracy | 100% |
 | Highest consistency | 82.5% |
@@ -31,7 +31,7 @@ _Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-
 
 ```text
      Sep  Oct   Nov    Dec   Jan   Feb   Mar    Apr   May    Jun   Jul   Aug    Sep 
-                                                         ░
+                                                         ▒
 Mon                                                       
                                                           
 Wed                                                       
@@ -46,6 +46,7 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 20:04 UTC | 10 words | 99 | 100% | — |
 | 2026-09-12 20:01 UTC | 10 words | 78.3 | 93.6% | — |
 | 2026-09-12 18:37 UTC | 10 words | 102.1 | 100% | — |
 | 2026-09-12 18:35 UTC | 15s | 81.6 | 98.1% | — |
