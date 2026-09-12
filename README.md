@@ -1,18 +1,18 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-8-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-107-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-98.2%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-9-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-107-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-87.3%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 20:06:17 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 20:08:23 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 8 |
-| Time spent typing | 57s |
-| Average WPM | 93.6 |
-| Average accuracy | 98.2% |
-| Average consistency | 74.7% |
+| Tests completed | 9 |
+| Time spent typing | 1m 4s |
+| Average WPM | 83.2 |
+| Average accuracy | 87.3% |
+| Average consistency | 66.4% |
 | Best single test | 107 wpm (10 words) |
 | Highest accuracy | 100% |
 | Highest consistency | 82.5% |
@@ -46,6 +46,7 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 20:06 UTC | 10 words | 0 | 0% | — |
 | 2026-09-12 20:06 UTC | 10 words | 107 | 100% | — |
 | 2026-09-12 20:05 UTC | 10 words | 96.1 | 95.8% | — |
 | 2026-09-12 20:05 UTC | 10 words | 94.5 | 98% | — |
