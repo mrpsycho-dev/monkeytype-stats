@@ -1,23 +1,23 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-3-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-102.1-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-99.4%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-1%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-4-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-102.1-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-97.9%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 19:58:23 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-12 20:01:59 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 3 |
-| Time spent typing | 28s |
-| Average WPM | 91.2 |
-| Average accuracy | 99.4% |
-| Average consistency | 77.7% |
+| Tests completed | 4 |
+| Time spent typing | 34s |
+| Average WPM | 88 |
+| Average accuracy | 97.9% |
+| Average consistency | 75.6% |
 | Best single test | 102.1 wpm (10 words) |
 | Highest accuracy | 100% |
 | Highest consistency | 82.5% |
-| Current streak | 1 day |
-| Longest streak | 1 day |
+| Current streak | 2 days |
+| Longest streak | 2 days |
 | First test on record | 2026-09-12 |
 
 ## Personal bests
@@ -31,7 +31,7 @@ _Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-
 
 ```text
      Sep  Oct   Nov    Dec   Jan   Feb   Mar    Apr   May    Jun   Jul   Aug    Sep 
-                                                          
+                                                         ░
 Mon                                                       
                                                           
 Wed                                                       
@@ -46,6 +46,7 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 20:01 UTC | 10 words | 78.3 | 93.6% | — |
 | 2026-09-12 18:37 UTC | 10 words | 102.1 | 100% | — |
 | 2026-09-12 18:35 UTC | 15s | 81.6 | 98.1% | — |
 | 2026-09-12 18:32 UTC | 10 words | 90 | 100% | — |
