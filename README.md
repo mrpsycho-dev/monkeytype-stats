@@ -1,21 +1,21 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-11-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-114.3-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-89.4%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-14-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-114.3-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-91.7%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-2%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-13 17:54:45 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-13 17:57:26 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 11 |
-| Time spent typing | 1m 17s |
-| Average WPM | 86.6 |
-| Average accuracy | 89.4% |
-| Average consistency | 68% |
+| Tests completed | 14 |
+| Time spent typing | 1m 35s |
+| Average WPM | 91.2 |
+| Average accuracy | 91.7% |
+| Average consistency | 70.8% |
 | Best single test | 114.3 wpm (10 words) |
 | Highest accuracy | 100% |
-| Highest consistency | 82.7% |
+| Highest consistency | 87.3% |
 | Current streak | 2 days |
 | Longest streak | 2 days |
 | First test on record | 2026-09-12 |
@@ -37,7 +37,7 @@ Mon
 Wed                                                       
                                                           
 Fri                                                       
-                                                        ▒ 
+                                                        ░ 
 
 Less   ░ ▒ ▓ █ More
 ```
@@ -46,6 +46,9 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 17:57 UTC | 10 words | 96.9 | 100% | — |
+| 2026-09-13 17:55 UTC | 10 words | 113.3 | 100% | — |
+| 2026-09-13 17:55 UTC | 10 words | 114.2 | 100% | — |
 | 2026-09-13 17:54 UTC | 10 words | 114.3 | 100% | — |
 | 2026-09-12 20:14 UTC | 10 words | 90 | 98.3% | — |
 | 2026-09-12 20:06 UTC | 10 words | 0 | 0% | — |
@@ -53,9 +56,6 @@ Less   ░ ▒ ▓ █ More
 | 2026-09-12 20:05 UTC | 10 words | 96.1 | 95.8% | — |
 | 2026-09-12 20:05 UTC | 10 words | 94.5 | 98% | — |
 | 2026-09-12 20:04 UTC | 10 words | 99 | 100% | — |
-| 2026-09-12 20:01 UTC | 10 words | 78.3 | 93.6% | — |
-| 2026-09-12 18:37 UTC | 10 words | 102.1 | 100% | — |
-| 2026-09-12 18:35 UTC | 15s | 81.6 | 98.1% | — |
 
 ---
 
