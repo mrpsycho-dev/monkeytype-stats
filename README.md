@@ -1,18 +1,18 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-22-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-114.3-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-94.1%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-3%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-24-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-114.3-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-94.6%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-3%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-13 20:36:01 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-13 20:36:50 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 22 |
-| Time spent typing | 2m 26s |
-| Average WPM | 93.3 |
-| Average accuracy | 94.1% |
-| Average consistency | 73.1% |
+| Tests completed | 24 |
+| Time spent typing | 2m 38s |
+| Average WPM | 94 |
+| Average accuracy | 94.6% |
+| Average consistency | 73.9% |
 | Best single test | 114.3 wpm (10 words) |
 | Highest accuracy | 100% |
 | Highest consistency | 93.1% |
@@ -32,7 +32,7 @@ _Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-
 ```text
      Sep  Oct   Nov    Dec   Jan   Feb   Mar    Apr   May    Jun   Jul   Aug    Sep 
                                                          █
-Mon                                                      ▓
+Mon                                                      █
                                                           
 Wed                                                       
                                                           
@@ -46,6 +46,8 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 20:36 UTC | 10 words | 111.4 | 100% | — |
+| 2026-09-13 20:36 UTC | 10 words | 92.7 | 100% | — |
 | 2026-09-13 20:34 UTC | 10 words | 114.2 | 100% | — |
 | 2026-09-13 20:34 UTC | 10 words | 98 | 100% | — |
 | 2026-09-13 20:33 UTC | 10 words | 74.3 | 93.6% | — |
@@ -54,8 +56,6 @@ Less   ░ ▒ ▓ █ More
 | 2026-09-13 20:06 UTC | 10 words | 93.6 | 100% | — |
 | 2026-09-13 20:03 UTC | 10 words | 107.1 | 100% | — |
 | 2026-09-13 20:02 UTC | 10 words | 100.5 | 100% | — |
-| 2026-09-13 17:57 UTC | 10 words | 96.9 | 100% | — |
-| 2026-09-13 17:55 UTC | 10 words | 113.3 | 100% | — |
 
 ---
 
